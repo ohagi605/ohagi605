@@ -6,7 +6,12 @@
 - Githubにハマってる
 
 
-## 期待すること
-- 第一志望高校合格  
-- 京都大学に合格する！（👈まだ先）
-- ファイルの拡張子記憶？！
+## 好きな曲
+- The nights
+- The specter
+- Hey brother
+- Waiting for love
+- Wake me up
+- See you again
+- 7 years
+- NCS
