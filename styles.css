@@ -1,0 +1,24 @@
+body {
+  background-color: rgba(158, 168, 64, 0.411);
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+
+
+h2 {
+  color: #1a7021;
+  padding-top: 80;
+  padding-left: 350;
+}
+
+p {
+  color: black;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left:80 ;
+  font-size: 20;
+}
